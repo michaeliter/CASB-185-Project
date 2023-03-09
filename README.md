@@ -7,3 +7,5 @@ Here lies all of the code and files leveraged in our CASB 185 project: testing s
 - This directory holds the code used to perform various statistical analyses on
 ## statistical-results
 - This directory holds the p-values derived from the various statistical tests
+## graphical-outputs
+- This directory holds the bootstrap histograms and violin plots created from the statistical tests
