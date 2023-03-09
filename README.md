@@ -1,4 +1,6 @@
-# CASB-185-Project
+# CASB-185-Project (Group Dogs)
+Isha, Daljit, Michael, Eesha
+
 Here lies all of the code and files leveraged in our CASB 185 project: testing significance between reported covid deaths and excess deaths for countries with variant levels of stringent covid policies.
 
 ## source-excess-deaths
