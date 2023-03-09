@@ -1,7 +1,7 @@
-# CASB-185-Project (Group Dogs)
-Isha, Daljit, Michael, Eesha
+# Testing significance between reported covid deaths and excess deaths for countries with variant levels of stringent covid policies
+Isha, Daljit, Michael, Eesha (Group Dogs)
 
-Here lies all of the code and files leveraged in our CASB 185 project: testing significance between reported covid deaths and excess deaths for countries with variant levels of stringent covid policies.
+Here lies all of the code and files leveraged in our CASB 185 project:
 
 ## source-excess-deaths
 - This directory holds the covid deaths and excess deaths for each of the six countries analyzed (as calculated by The Economist)
